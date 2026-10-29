@@ -10,6 +10,21 @@ A Next.js starter for **Irish small-business websites**. Edit one config file an
 - **Template legal pages**: privacy notice, cookie policy and accessibility statement.
 - No CSS framework and no UI libraries: just Next.js, React and one small validation package.
 
+## Don't want to set it up yourself?
+
+**Sevenoways Innovations Limited will set up this website on your server for a one-off €200 (or $250).**
+
+That includes:
+- Filling in `site.config.ts` with your business details, services, hours and company info
+- Deploying it to your server or hosting (VPS, Vercel, Netlify and similar)
+- Connecting your domain and setting up HTTPS
+- Connecting the contact form to your email
+- Checking your Google structured data passes the Rich Results Test
+
+Not included: hosting or domain fees, custom design, or writing your page copy. Ask us about these if you need them.
+
+👉 **[Request a setup](https://github.com/sevenoways/sme-site-starter/issues/new?template=setup-request.yml)**
+
 ## Quick start
 
 ```bash

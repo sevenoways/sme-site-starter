@@ -1,0 +1,54 @@
+name: "Done-for-you setup (€200 / $250)"
+description: Ask Sevenoways Innovations to set up this website on your server for you.
+title: "[Setup request] "
+labels: ["setup-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for your interest! Fill in the basics below and we'll reply to confirm details and send payment instructions.
+        **Please don't post passwords, server logins or API keys here.** This issue is public. We'll collect access details privately.
+  - type: input
+    id: business
+    attributes:
+      label: Business name
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Best email to reach you
+      description: Visible publicly. If you'd rather keep it private, write "please contact me via GitHub".
+    validations:
+      required: true
+  - type: input
+    id: domain
+    attributes:
+      label: Domain name
+      placeholder: www.yourbusiness.ie
+  - type: dropdown
+    id: hosting
+    attributes:
+      label: Where should the site run?
+      options:
+        - My own VPS / server
+        - Vercel
+        - Netlify
+        - Other managed hosting
+        - Not sure, please advise
+    validations:
+      required: true
+  - type: dropdown
+    id: currency
+    attributes:
+      label: Currency
+      options:
+        - EUR (€200)
+        - USD ($250)
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else?
+      description: Services you offer, areas you cover, deadlines, etc.
