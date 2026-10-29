@@ -23,7 +23,7 @@ That includes:
 
 Not included: hosting or domain fees, custom design, or writing your page copy. Ask us about these if you need them.
 
-👉 **[Request a setup](https://github.com/sevenoways/sme-site-starter/issues/new?template=setup-request.yml)**
+👉 **[Request a setup](https://github.com/sevenoways/sme-site-starter/issues/new?template=setup-request.yml)** or email **[support@sevenoways.com](mailto:support@sevenoways.com?subject=Website%20setup%20request)** if you'd rather keep it private.
 
 ## Quick start
 

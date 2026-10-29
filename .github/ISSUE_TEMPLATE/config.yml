@@ -1,1 +1,5 @@
 blank_issues_enabled: true
+contact_links:
+  - name: Email us privately
+    url: mailto:support@sevenoways.com?subject=Website%20setup%20request
+    about: Prefer email? Contact Sevenoways Innovations directly about a done-for-you setup.

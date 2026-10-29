@@ -18,7 +18,7 @@ body:
     id: contact
     attributes:
       label: Best email to reach you
-      description: Visible publicly. If you'd rather keep it private, write "please contact me via GitHub".
+      description: Visible publicly. Prefer to keep it private? Email support@sevenoways.com instead of using this form.
     validations:
       required: true
   - type: input
