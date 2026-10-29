@@ -1,4 +1,4 @@
-name: "Done-for-you setup (€200 / $250)"
+name: "Done-for-you setup (€200 / $250 incl. VAT)"
 description: Ask Sevenoways Innovations to set up this website on your server for you.
 title: "[Setup request] "
 labels: ["setup-request"]
@@ -43,8 +43,8 @@ body:
     attributes:
       label: Currency
       options:
-        - EUR (€200)
-        - USD ($250)
+        - EUR (€200 incl. VAT)
+        - USD ($250 incl. VAT)
     validations:
       required: true
   - type: textarea

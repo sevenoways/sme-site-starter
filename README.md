@@ -12,7 +12,7 @@ A Next.js starter for **Irish small-business websites**. Edit one config file an
 
 ## Don't want to set it up yourself?
 
-**Sevenoways Innovations Limited will set up this website on your server for a one-off €200 (or $250).**
+**Sevenoways Innovations Limited will set up this website on your server for a one-off €200 (or $250), VAT included.**
 
 That includes:
 - Filling in `site.config.ts` with your business details, services, hours and company info
